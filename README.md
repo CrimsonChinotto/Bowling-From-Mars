@@ -1,5 +1,5 @@
 # Bowling From Mars
-![Alt text]
+![Alt text](/Screenshots/Logo.png?raw=true "Logo")
 
 ## What is it?
 
@@ -28,3 +28,7 @@ This game is for University purpose only.
 [Youtube link](https://www.youtube.com/watch?v=TjCFk3woABg)
 
 ## Screenshots
+![Alt text](/Screenshots/Screenshot_01.png?raw=true "Menu")
+![Alt text](/Screenshots/Screenshot_02.png?raw=true "Gameplay 1")
+![Alt text](/Screenshots/Screenshot_03.png?raw=true "Gameplay 2")
+![Alt text](/Screenshots/Screenshot_04.png?raw=true "Ending Screen")
