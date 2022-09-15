@@ -1,4 +1,3 @@
-# Bowling From Mars
 ![Alt text](/Screenshots/Logo.png?raw=true "Logo")
 
 ## What is it?
